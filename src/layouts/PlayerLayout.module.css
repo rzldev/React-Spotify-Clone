@@ -1,0 +1,21 @@
+.bg_gray_body {
+    /* background-color: #121212; */
+    /* background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); */
+    background: linear-gradient(180deg, rgba(18, 18, 18, 0.9) 0%, rgba(18, 18, 18, 1) 100%);
+}
+
+.bg_gray_292929 {
+    background-color: #292929;
+}
+
+.hover_text_gray_292929 :hover {
+    color: #292929;
+}
+
+.border_gray_292929 {
+    border-color: #292929;
+}
+
+.bg_181818 {
+    background-color: #181818;
+}
